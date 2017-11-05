@@ -1,4 +1,6 @@
 Project Title:Content Management System
+Project Location:Compututer Science & ENgineering Discipline,
+		Khulna University, Khulna, Bangladesh.
 
 
 Project Description:
