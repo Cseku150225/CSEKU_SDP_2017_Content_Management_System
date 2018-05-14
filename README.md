@@ -1,6 +1,5 @@
 Project Title:Content Management System
-Project Location:Compututer Science & ENgineering Discipline,
-		Khulna University, Khulna, Bangladesh.
+
 
 
 Project Description:
@@ -14,24 +13,11 @@ Project Description:
 
 
 
-Project Manager:
-                         Kazi Masudul Alam
-                         Associate professor
-                         CSE Discipline
-                         Khulna University 
-                                    &
-                         Manishankar  Mondal
-	        Assistant professor
-                         CSE Discipline
-                         Khulna University 
-
-
-
 Developed By:
-                    Shaan Ul Islam (150207)
-                    Zubayer Rashid rayhan(150208)
-                    SM Shahed (150209)
+                    
                     Shish Been Baha Uddin (150225)
+                    Zubayer Rashid rayhan(150208)
+                
 
 
 Project Description:
